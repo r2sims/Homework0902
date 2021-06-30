@@ -1,7 +1,6 @@
 ### Hi there, I'm Rodrick 👋
 
 
-[![Twitter Follow]()
 
 ## I'm a Husband, Father,  and Amatuer Developer.
 
