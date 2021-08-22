@@ -14,9 +14,9 @@
 
   # Markdown generator
 # Details
-undefined
+Generates a good markdown readme
 # Installation
-undefined
+node index.js
 # Benefits
 undefined
 # Licenses
@@ -26,7 +26,7 @@ undefined
 # Test
 nmp test
 # Github
-undefined
+r2sims
 # Email
 r2sims@yahoo.com
   
